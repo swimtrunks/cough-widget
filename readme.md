@@ -1,5 +1,5 @@
 # Cough Widget 😷 📱
-![screenshot of application](./hyfeai/public/screenshot.png)
+
 ## Objective
 
 - **Stack:** this is a simple typescript react application with vanilla css.
